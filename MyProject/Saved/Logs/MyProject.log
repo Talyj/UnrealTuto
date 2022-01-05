@@ -4273,3 +4273,18 @@ Script call stack:
 [2022.01.05-21.50.37:705][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.01.05-21.50.37:710][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
 [2022.01.05-21.50.37:734][391]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2022.01.05-21.51.04:624][ 77]LogSavePackage: Moving '../../../../../../ESGI/2021-2022/Ecole/UnrealEngine/UnrealTuto/MyProject/Saved/Enemy_Character7765C4CB474984C711BCFC8ED7FEBC13.tmp' to '../../../../../../ESGI/2021-2022/Ecole/UnrealEngine/UnrealTuto/MyProject/Content/ThirdPersonBP/AI/Enemy_Character.uasset'
+[2022.01.05-21.51.04:633][ 77]AssetCheck: New page: Asset Save: Enemy_Character
+[2022.01.05-21.51.04:633][ 77]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/AI/Enemy_Character.Enemy_Character
+[2022.01.05-21.51.06:251][262]LogSlate: Window 'BTT_FindRandomPatrol' being destroyed
+[2022.01.05-21.51.06:256][262]LogSlate: Window 'BTT_FindRandomPatrol' being destroyed
+[2022.01.05-21.51.06:336][262]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.05-21.51.06:336][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.05-21.51.06:438][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.01.05-21.51.06:438][262]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.01.05-21.51.06:438][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.05-21.51.06:533][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.01.05-21.51.06:533][262]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.01.05-21.51.06:533][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.05-21.51.06:632][262]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.01.05-21.51.06:633][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
